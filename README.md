@@ -31,7 +31,7 @@ To view or contribute to this project, follow these steps:
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/bugatti-interface.git
+    git clone https://github.com/Santhosh1470/bugatti-interface.git
     ```
 
 2. **Navigate to the project folder**:
